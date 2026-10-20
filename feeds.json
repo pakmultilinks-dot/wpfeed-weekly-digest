@@ -1,0 +1,30 @@
+{
+  "sources": [
+    {
+      "name": "WPFeed",
+      "url": "https://wpfeed.com/feed/",
+      "priority": 1
+    },
+    {
+      "name": "WordPress.org News",
+      "url": "https://wordpress.org/news/feed/",
+      "priority": 2
+    },
+    {
+      "name": "WPBeginner",
+      "url": "https://www.wpbeginner.com/feed/",
+      "priority": 3
+    },
+    {
+      "name": "WP Tavern",
+      "url": "https://wptavern.com/feed",
+      "priority": 3,
+      "note": "Did not respond during Oct 2026 testing; kept in config for when it recovers."
+    }
+  ],
+  "window_days": 7,
+  "max_items": 8,
+  "per_source_cap": 4,
+  "min_items": 5,
+  "max_window_days": 30
+}
