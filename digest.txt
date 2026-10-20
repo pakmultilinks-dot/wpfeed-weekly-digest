@@ -1,0 +1,32 @@
+WordPress Round-up (week of 20 Oct 2026)
+================================================
+
+1. #237 – Robert Abela on WordPress Security and the Battle Against AI Threats
+   WP Tavern - 14 Oct 2026
+   https://wptavern.com/podcast/237-robert-abela-on-wordpress-security-and-the-battle-against-ai-threats/
+
+2. #236 – Brian Coords on WordPress as the Source of Truth
+   WP Tavern - 07 Oct 2026
+   https://wptavern.com/podcast/236-brian-coords-on-wordpress-as-the-source-of-truth/
+
+3. WordPress 7.1.3 Maintenance and Security Release
+   WordPress.org News - 06 Oct 2026
+   https://wordpress.org/news/2026/10/wordpress-7-1-3-maintenance-and-security-release/
+
+4. WPBeginner Spotlight 28: WPVibe Hits 50,000 Sites, a New WPForms Dashboard, and Two WordPress Security Updates
+   WPBeginner - 30 Sep 2026
+   https://www.wpbeginner.com/news/wpbeginner-spotlight-28-wpvibe-hits-40000-sites-a-new-wpforms-dashboard-and-two-wordpress-security-updates/
+
+5. #235 – Rob Pugh and Tony Arcangelini on Bringing Podcasting to Jetpack
+   WP Tavern - 30 Sep 2026
+   https://wptavern.com/podcast/235-rob-pugh-and-tony-arcangelini-on-bringing-podcasting-to-jetpack/
+
+6. #234 – K. Adam White on Migrating to Blocks With Artisanal Care and Enterprise Efficiency
+   WP Tavern - 23 Sep 2026
+   https://wptavern.com/podcast/234-k-adam-white-on-migrating-to-blocks-with-artisanal-care-and-enterprise-efficiency/
+
+7. WordPress 7.1.2 Release
+   WordPress.org News - 22 Sep 2026
+   https://wordpress.org/news/2026/09/wordpress-7-1-2-release/
+
+WPFeed weekly round-up. Unsubscribe anytime.
